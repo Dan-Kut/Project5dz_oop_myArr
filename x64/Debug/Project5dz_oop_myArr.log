@@ -1,0 +1,10 @@
+﻿  MyArray.cpp
+C:\Users\kutum\source\repos\Project6_dz_oop\Project5dz_oop_myArr\MyArray.cpp(32,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kutum\source\repos\Project6_dz_oop\Project5dz_oop_myArr\MyArray.cpp(48,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kutum\source\repos\Project6_dz_oop\Project5dz_oop_myArr\MyArray.cpp(76,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\kutum\source\repos\Project6_dz_oop\Project5dz_oop_myArr\MyArray.cpp(103,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kutum\source\repos\Project6_dz_oop\Project5dz_oop_myArr\MyArray.cpp(116,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kutum\source\repos\Project6_dz_oop\Project5dz_oop_myArr\MyArray.cpp(132,21): warning C4018: '<=': signed/unsigned mismatch
+  dz6_dz_oop_myArr.cpp
+  Generating Code...
+  Project5dz_oop_myArr.vcxproj -> C:\Users\kutum\source\repos\Project6_dz_oop\x64\Debug\Project6dz_oop_myArr.exe
